@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="badbe590-42dc-4130-a40d-4736c54bf491" name="Changes" comment="" />
+    <list default="true" id="badbe590-42dc-4130-a40d-4736c54bf491" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,18 +16,21 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/portfolio" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2bOYRPl5enmHMUlCFhEU1GHr43K" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/emobilis/Pictures/Ezekiel/Web Development/portfolio",
+    "last_opened_file_path": "/home/emobilis/Pictures/Ezekiel/Web Development/Class",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -72,7 +78,12 @@
       <workItem from="1706178639012" duration="459000" />
       <workItem from="1706180605371" duration="674000" />
       <workItem from="1706181553185" duration="31000" />
-      <workItem from="1706256355969" duration="5185000" />
+      <workItem from="1706256355969" duration="7072000" />
+      <workItem from="1706267119284" duration="424000" />
+      <workItem from="1706515853937" duration="681000" />
+      <workItem from="1706602506169" duration="57000" />
+      <workItem from="1706602565016" duration="62000" />
+      <workItem from="1706602662594" duration="5537000" />
     </task>
     <servers />
   </component>
